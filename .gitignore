@@ -1,0 +1,13 @@
+# Build-Ergebnisse (werden von build.sh erzeugt)
+ContactImporter.app/
+ContactImporter.zip
+ContactImporter
+ContactImporter-arm64
+ContactImporter-x86_64
+
+# macOS
+.DS_Store
+
+# Lokale Werkzeug-Einstellungen
+.claude/settings.local.json
+Claude outputs/
